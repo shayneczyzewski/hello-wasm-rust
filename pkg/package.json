@@ -1,0 +1,11 @@
+{
+  "name": "hello-wasm-rust",
+  "version": "0.1.0",
+  "files": [
+    "Foo_bg.wasm",
+    "Foo.js",
+    "Foo.d.ts"
+  ],
+  "main": "Foo.js",
+  "types": "Foo.d.ts"
+}
